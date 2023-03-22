@@ -9,7 +9,7 @@ require (
 	github.com/capitalone/fpe v1.2.1
 	github.com/goccy/go-yaml v1.9.5
 	github.com/google/gxui v0.0.0-20151028112939-f85e0a97b3a4 // indirect
-	github.com/mattn/go-isatty v0.0.14
+	github.com/mattn/go-isatty v0.0.18
 	github.com/rs/zerolog v1.26.1
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/spf13/cobra v1.3.0
